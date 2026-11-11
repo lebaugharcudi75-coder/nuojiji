@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1794402485022,
+  "timestamp": 1794402516640,
   "appVersion": "",
   "source": "auto",
   "device": "app-ios",
@@ -247,7 +247,7 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1794402485022,
+  "lastCompleteAt": 1794402516640,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
@@ -302,9 +302,9 @@
       "b": "c64401d8218523bb610300dfc3ee108db265136e"
     },
     "_localStorage.json": {
-      "h": "g:189d4cfbb7b4d718b0173769cda85fbdf6ef2490",
+      "h": "g:c99e9047fd6acd48f20e239bcc0a74e5e99e7d01",
       "gz": false,
-      "b": "189d4cfbb7b4d718b0173769cda85fbdf6ef2490"
+      "b": "c99e9047fd6acd48f20e239bcc0a74e5e99e7d01"
     },
     "userPosts.json": {
       "h": "g:2b5a28696057a850d7d4192354b9081eb4f21ea2",
@@ -346,30 +346,30 @@
       "gz": false,
       "b": "5ef7153009d171920502b18f131c622bb741e694"
     },
+    "globalSettings.json": {
+      "h": "g:b34bb509cdd1caf492bcd16ab09c2c21651df58f",
+      "gz": false,
+      "b": "b34bb509cdd1caf492bcd16ab09c2c21651df58f"
+    },
     "messages_chunk_4.json": {
       "h": "g:6c36a55846591923de184fcab433aacc60d85512",
       "gz": false,
       "b": "6c36a55846591923de184fcab433aacc60d85512"
-    },
-    "memory.json": {
-      "h": "g:6483e45dad1ba45480474897eec0280ee6a6c570",
-      "gz": false,
-      "b": "6483e45dad1ba45480474897eec0280ee6a6c570"
     },
     "callLogs.json": {
       "h": "g:33e089739e31014f89296023e0a0defb22481399",
       "gz": false,
       "b": "33e089739e31014f89296023e0a0defb22481399"
     },
-    "globalSettings.json": {
-      "h": "g:893e7859cfc399dafac09599a8dd3f2690477603",
-      "gz": false,
-      "b": "893e7859cfc399dafac09599a8dd3f2690477603"
-    },
     "roleStickers_chunk_0.json": {
       "h": "g:0375783069f3fb72341d04840b0b9171e8c055b8",
       "gz": false,
       "b": "0375783069f3fb72341d04840b0b9171e8c055b8"
+    },
+    "memory.json": {
+      "h": "g:6483e45dad1ba45480474897eec0280ee6a6c570",
+      "gz": false,
+      "b": "6483e45dad1ba45480474897eec0280ee6a6c570"
     },
     "roleStickers_chunk_1.json": {
       "h": "g:11cc261c91fcf2be14a055c5c722768781a060ec",
@@ -811,11 +811,6 @@
       "gz": false,
       "b": "2ddb47c5e55b45cf6cfc682cfcdbbb05f1a48541"
     },
-    "summaryEntries.json": {
-      "h": "g:ed895c54428db4576afb8120aa9642556ee31459",
-      "gz": false,
-      "b": "ed895c54428db4576afb8120aa9642556ee31459"
-    },
     "imageStore_chunk_26.json": {
       "h": "g:f692d24d31b5e768107d082ee8a900a55d81937f",
       "gz": false,
@@ -966,6 +961,11 @@
       "gz": false,
       "b": "e72c2c6196d707eb538d1fbba05883af646b3d14"
     },
+    "summaryEntries.json": {
+      "h": "g:ed895c54428db4576afb8120aa9642556ee31459",
+      "gz": false,
+      "b": "ed895c54428db4576afb8120aa9642556ee31459"
+    },
     "xinsheng.json": {
       "h": "g:da31ab4701929825fb5ccd15963bce57765280a3",
       "gz": false,
@@ -981,25 +981,15 @@
       "gz": false,
       "b": "4b8eacd4681add7a08cc9e7fa4635165a9d71e95"
     },
-    "mcpServers.json": {
-      "h": "g:6f2de437c60679204abb925b3256082f158a9677",
-      "gz": false,
-      "b": "6f2de437c60679204abb925b3256082f158a9677"
-    },
     "chikanPhoneSkins.json": {
       "h": "g:a2d7b14302f56501c86d0f5438288a1b88ac6d41",
       "gz": false,
       "b": "a2d7b14302f56501c86d0f5438288a1b88ac6d41"
     },
-    "characterLifeState.json": {
-      "h": "g:4711f40e829aab13d3f36d923541c1091c4324bb",
+    "mcpServers.json": {
+      "h": "g:6f2de437c60679204abb925b3256082f158a9677",
       "gz": false,
-      "b": "4711f40e829aab13d3f36d923541c1091c4324bb"
-    },
-    "thinkingStore.json": {
-      "h": "g:1e4ed85834b83f06fda225bb974c89df90881838",
-      "gz": false,
-      "b": "1e4ed85834b83f06fda225bb974c89df90881838"
+      "b": "6f2de437c60679204abb925b3256082f158a9677"
     },
     "healthEntries_chunk_0.json": {
       "h": "g:a2807b5230608ad2a69229b5b33ed5c6c8d09f54",
@@ -1010,6 +1000,11 @@
       "h": "g:8e0a445c7bd0e6ced5f880068e810debf690743b",
       "gz": false,
       "b": "8e0a445c7bd0e6ced5f880068e810debf690743b"
+    },
+    "characterLifeState.json": {
+      "h": "g:4711f40e829aab13d3f36d923541c1091c4324bb",
+      "gz": false,
+      "b": "4711f40e829aab13d3f36d923541c1091c4324bb"
     },
     "healthEntries_chunk_2.json": {
       "h": "g:03174f7dab519fc240fcdaf1076bbb43dd325b26",
@@ -1255,6 +1250,11 @@
       "h": "g:814f15c8244c126da3f12a6b490602cb1cc7f5e8",
       "gz": false,
       "b": "814f15c8244c126da3f12a6b490602cb1cc7f5e8"
+    },
+    "thinkingStore.json": {
+      "h": "g:1e4ed85834b83f06fda225bb974c89df90881838",
+      "gz": false,
+      "b": "1e4ed85834b83f06fda225bb974c89df90881838"
     },
     "radioData.json": {
       "h": "g:1b63783c4912b7fc4986d1d00aabe20e52fa8577",
