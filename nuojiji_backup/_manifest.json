@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1795782987763,
+  "timestamp": 1795785660918,
   "appVersion": "",
   "source": "auto",
   "device": "web",
@@ -132,7 +132,7 @@
   ],
   "chunkedTables": {
     "stickers": 5,
-    "messages": 11,
+    "messages": 12,
     "roleStickers": 2,
     "ttsAudio": 43,
     "imageStore": 29,
@@ -259,7 +259,7 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1795782987763,
+  "lastCompleteAt": 1795785660918,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
@@ -314,9 +314,9 @@
       "b": "36d0109a35a5c5beb5e05ec2a2297e301438e486"
     },
     "_localStorage.json": {
-      "h": "g:1c648e87b260925cdafbe0e2e26fab3f38e9c356",
+      "h": "g:974c3f268eb8fbdd0535d2e210c5ca8c9d6ab711",
       "gz": false,
-      "b": "1c648e87b260925cdafbe0e2e26fab3f38e9c356"
+      "b": "974c3f268eb8fbdd0535d2e210c5ca8c9d6ab711"
     },
     "userPosts.json": {
       "h": "g:bcefe2eed5ddf1ad7cad327d7dcc010886319a08",
@@ -379,9 +379,14 @@
       "b": "e4724990e1e2e52f04e011c697f0ab6c48b3c87a"
     },
     "userState.json": {
-      "h": "g:8679e7ff2b5f5c0e26f16c44e3c263f698c362fb",
+      "h": "g:a4c8bdb6505ceefbc1ba9c04b10fc2ac27e7a00c",
       "gz": false,
-      "b": "8679e7ff2b5f5c0e26f16c44e3c263f698c362fb"
+      "b": "a4c8bdb6505ceefbc1ba9c04b10fc2ac27e7a00c"
+    },
+    "messages_chunk_10.json": {
+      "h": "g:07ca87ffad61eda249c9f66ff67c6d6c468e2247",
+      "gz": false,
+      "b": "07ca87ffad61eda249c9f66ff67c6d6c468e2247"
     },
     "favorites.json": {
       "h": "g:5ef7153009d171920502b18f131c622bb741e694",
@@ -487,6 +492,11 @@
       "h": "g:94f448f4ba870bcffc26b938ecf55fcc3d91584e",
       "gz": false,
       "b": "94f448f4ba870bcffc26b938ecf55fcc3d91584e"
+    },
+    "globalSettings.json": {
+      "h": "g:82730d621dde010acad9c5be800e89430fcc3ff2",
+      "gz": false,
+      "b": "82730d621dde010acad9c5be800e89430fcc3ff2"
     },
     "ttsAudio_chunk_2.json": {
       "h": "g:e3dc9b39a771be63d358195dce7d85268c0e142f",
@@ -688,11 +698,6 @@
       "gz": false,
       "b": "d837ff697cda7a43815135527dcf0a5cdfd86a21"
     },
-    "globalSettings.json": {
-      "h": "g:b8655a6a44299d2f61c42f68ab53e5fe03fa2e3c",
-      "gz": false,
-      "b": "b8655a6a44299d2f61c42f68ab53e5fe03fa2e3c"
-    },
     "ttsAudio_chunk_42.json": {
       "h": "g:9e1020babdd87ff0cad6262234d8b831b0da4745",
       "gz": false,
@@ -723,15 +728,15 @@
       "gz": false,
       "b": "16d35b629d77aee868bd866e40f4fb9fecb6b03b"
     },
-    "messages_chunk_10.json": {
-      "h": "g:891ca5c91b0942d61462393b7e25547f4ccfde44",
-      "gz": false,
-      "b": "891ca5c91b0942d61462393b7e25547f4ccfde44"
-    },
     "xinsheng.json": {
-      "h": "g:614b9b1432b8583b71153bd5088a11cd3d3807bf",
+      "h": "g:0dcc9bf0e9f9603e23da5cc72425ec45202fe2c4",
       "gz": false,
-      "b": "614b9b1432b8583b71153bd5088a11cd3d3807bf"
+      "b": "0dcc9bf0e9f9603e23da5cc72425ec45202fe2c4"
+    },
+    "messages_chunk_11.json": {
+      "h": "g:1aa3da27d9e5460482da09f7eb85e3d5fcd97cc8",
+      "gz": false,
+      "b": "1aa3da27d9e5460482da09f7eb85e3d5fcd97cc8"
     },
     "pomodoroSessions.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -1009,9 +1014,9 @@
       "b": "e72c2c6196d707eb538d1fbba05883af646b3d14"
     },
     "xinshengRounds.json": {
-      "h": "g:a59492994aaeca45797c23b93344b5ccbf85c493",
+      "h": "g:14af55e6458e687aae18cba26a1a6a2d43683bae",
       "gz": false,
-      "b": "a59492994aaeca45797c23b93344b5ccbf85c493"
+      "b": "14af55e6458e687aae18cba26a1a6a2d43683bae"
     },
     "commitments.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -1034,9 +1039,9 @@
       "b": "8e0a445c7bd0e6ced5f880068e810debf690743b"
     },
     "mcpServers.json": {
-      "h": "g:c3d2e865095463c07686a2d77d29bc19f6259268",
+      "h": "g:ab48a6429191a1fb41cb2c895bd91e262232bc02",
       "gz": false,
-      "b": "c3d2e865095463c07686a2d77d29bc19f6259268"
+      "b": "ab48a6429191a1fb41cb2c895bd91e262232bc02"
     },
     "healthEntries_chunk_2.json": {
       "h": "g:03174f7dab519fc240fcdaf1076bbb43dd325b26",
@@ -1218,11 +1223,6 @@
       "gz": false,
       "b": "dd777635d2b3c342882d92ba7cead850626d0c6e"
     },
-    "characterLifeState.json": {
-      "h": "g:c8e5436c4b8a9b71936107a0d27420d0b21617d9",
-      "gz": false,
-      "b": "c8e5436c4b8a9b71936107a0d27420d0b21617d9"
-    },
     "deliveryData.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
@@ -1328,10 +1328,15 @@
       "gz": false,
       "b": "814f15c8244c126da3f12a6b490602cb1cc7f5e8"
     },
-    "thinkingStore.json": {
-      "h": "g:6c2d257b90ebd65ec5441e70137974b27842f6b3",
+    "characterLifeState.json": {
+      "h": "g:5c62b3d9cf58a7145b112864d7e81357609bcfaa",
       "gz": false,
-      "b": "6c2d257b90ebd65ec5441e70137974b27842f6b3"
+      "b": "5c62b3d9cf58a7145b112864d7e81357609bcfaa"
+    },
+    "thinkingStore.json": {
+      "h": "g:b5b482bc64903520e0050b3d9e790af6a3cac658",
+      "gz": false,
+      "b": "b5b482bc64903520e0050b3d9e790af6a3cac658"
     }
   }
 }
